@@ -1,0 +1,6 @@
+X_USERNAME=devjain
+X_PASSWORD=Lalitpur81
+X_REPONAME="devjain/werckerdemo-1505"
+X_TAGNAME="1505"
+X_CNT_NAME=test-wercker-container
+X_IMAGE_BASE="devjain/werckerdemo-1505"
